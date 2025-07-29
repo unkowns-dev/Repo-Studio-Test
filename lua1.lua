@@ -1,1 +1,1 @@
-mrow
+print("hello world")
